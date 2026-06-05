@@ -1,6 +1,6 @@
 # A simple greeting and guessing game
 def welcome_user():
-    print("Welcome to Python!")
+    pri
     name = input("What is your name? ")
     print(f"Hello, {name}! Let's play a quick game.")
     
